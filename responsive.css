@@ -94,15 +94,3 @@
         padding: 0px 20px 0px 20px !important;
     }
 }
-
-
-
-@media screen and (max-width:470px) {
-
-    img.responsive-image {
-        width: 100% !important;
-        text-align: center !important;
-        height: auto !important;
-        padding: 0px 20px 0px 20px !important;
-    }
-}
